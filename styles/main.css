@@ -491,6 +491,6 @@ line-height: 16px;
     display: flex;
     column-gap: 25px;
 }
-.body{
+body{
     background: #000;
 }
